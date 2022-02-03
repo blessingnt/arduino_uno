@@ -1,5 +1,5 @@
 # arduino_uno
-Arduino Code sketches from class
+Arduino sketches from class
 
 ## General Info
 This is just a small collection of sketches made during my computer programming class. Using Arduino Cloud editor,
